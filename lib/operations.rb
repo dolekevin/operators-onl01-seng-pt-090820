@@ -5,6 +5,10 @@ if speed > 60
 end
 return true
 
+if speed == (40) == (60)
+return false
+end
+
 end
 
 
