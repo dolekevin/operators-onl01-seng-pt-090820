@@ -5,7 +5,7 @@ if speed > 60
 end
 return true
 
-if speed == 41..59
+if speed == 40...60
 return false
 end
 
